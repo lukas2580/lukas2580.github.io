@@ -13,7 +13,19 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://Tempest.ml/ps5-countdown.html</loc>
+    <lastmod>2020-05-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://Tempest.ml/images/ps5tunein_featured_1.jpg</loc>
+    <lastmod>2020-05-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://Tempest.ml/images/asdasddasdasdasdasd.jpg</loc>
     <lastmod>2020-05-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -21,12 +33,6 @@
   <url>
     <loc>http://Tempest.ml/assets/ps5-hq.webm</loc>
     <lastmod>2020-05-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://Tempest.ml/images/asdasddasdasdasdasd.jpg</loc>
-    <lastmod>2020-05-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
