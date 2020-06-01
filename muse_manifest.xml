@@ -1,27 +1,25 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="Tempest.ml" resolutions="1x" timestamp="1590923780187">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="Tempest.ml" resolutions="1x" timestamp="1590998203942">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="301824446" ref="index"/>
     <file name="about.css" crc="4020921073" ref="about"/>
-    <file name="index.css" crc="221588588" ref="index"/>
-    <file name="ps5-countdown.css" crc="4067688217" ref="ps5-countdown"/>
   </folder>
   <folder name="assets">
     <file name="ps5-hq.webm" crc="3813826525" seo="true" mt="1590843987000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:ps5-countdown"/>
-    <file name="museutils.js" crc="163421577" ref="index:about:ps5-countdown"/>
-    <file name="whatinput.js" crc="86476730" ref="index:about:ps5-countdown"/>
-    <file name="museconfig.js" crc="168988563" ref="index:about:ps5-countdown"/>
-    <file name="jquery.watch.js" crc="104486786" ref="index:about:ps5-countdown"/>
-    <file name="require.js" crc="244322403" ref="index:about:ps5-countdown"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about"/>
+    <file name="museutils.js" crc="163421577" ref="index:about"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about"/>
+    <file name="museconfig.js" crc="168988563" ref="index:about"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index:about"/>
+    <file name="require.js" crc="244322403" ref="index:about"/>
   </folder>
   <folder name="images">
-    <file name="ps5tunein_featured_1.jpg" crc="3817628714" seo="true" ref="index:ps5-countdown"/>
+    <file name="ps5tunein_featured_1.jpg" crc="3817628714" seo="true" ref="index"/>
     <file name="asdasddasdasdasdasd.jpg" crc="223178003" seo="true" ref="index"/>
     <file name="the-streamgeeks-394525.png" crc="312172058" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="75186543" seo="true" mt="1590923771314" redirect="true"/>
+  <file name="index.html" crc="4112494625" seo="true" mt="1590998191944" redirect="true"/>
   <file name="about.html" crc="3890415658" seo="true" mt="1590920440977" redirect="true"/>
-  <file name="ps5-countdown.html" crc="514048936" seo="true" mt="1590923550053" redirect="true"/>
 </manifest>
