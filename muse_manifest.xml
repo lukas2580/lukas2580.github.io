@@ -1,8 +1,8 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="Tempest.ml" resolutions="1x" timestamp="1591815995840">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="Tempest.ml" resolutions="1x" timestamp="1591816145383">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="program.css" crc="451045025" ref="program"/>
-    <file name="index.css" crc="27867255" ref="index"/>
+    <file name="index.css" crc="4274558658" ref="index"/>
     <file name="contact.css" crc="3876837212" ref="contact"/>
     <file name="about.css" crc="4155127945" ref="about"/>
   </folder>
@@ -25,7 +25,7 @@
     <file name="298-crop-u562.png" crc="3870844205" ref="about"/>
     <file name="298-crop-u569.png" crc="3870844205" ref="about"/>
   </folder>
-  <file name="index.html" crc="4051215213" seo="true" mt="1591815986270" redirect="true"/>
+  <file name="index.html" crc="90248103" seo="true" mt="1591816129136" redirect="true"/>
   <file name="about.html" crc="4157802879" seo="true" mt="1591815416796" redirect="true"/>
   <file name="program.html" crc="4272716904" seo="true" mt="1591638721714" redirect="true"/>
   <file name="contact.html" crc="3984784452" seo="true" mt="1591815610114" redirect="true"/>
