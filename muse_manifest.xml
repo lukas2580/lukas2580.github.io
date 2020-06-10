@@ -1,9 +1,9 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="Tempest.ml" resolutions="1x" timestamp="1591649686710">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="Tempest.ml" resolutions="1x" timestamp="1591806454288">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="about.css" crc="433553371" ref="about"/>
-    <file name="program.css" crc="4110436891" ref="program"/>
-    <file name="index.css" crc="188977396" ref="index"/>
+    <file name="program.css" crc="451045025" ref="program"/>
+    <file name="about.css" crc="4001755563" ref="about"/>
+    <file name="index.css" crc="3903163600" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="ps5-hq.webm" crc="3813826525" seo="true" mt="1590843987000"/>
@@ -18,11 +18,9 @@
   </folder>
   <folder name="images">
     <file name="eaahlqbxqaenjjt-crop-u106.jpg" crc="158561728" ref="index"/>
-    <file name="asdasddasdasdasdasd.jpg" crc="223178003" seo="true" ref="index"/>
-    <file name="the-streamgeeks-394525.png" crc="159866405" seo="true" ref="index"/>
-    <file name="298-crop-u368.png" crc="402057031" ref="index"/>
+    <file name="298-crop-u368.png" crc="60348062" ref="index"/>
   </folder>
-  <file name="index.html" crc="3993352183" seo="true" mt="1591649664700" redirect="true"/>
-  <file name="about.html" crc="382010482" seo="true" mt="1590920440977" redirect="true"/>
-  <file name="program.html" crc="246246180" seo="true" mt="1591638721714" redirect="true"/>
+  <file name="index.html" crc="79897294" seo="true" mt="1591806403907" redirect="true"/>
+  <file name="about.html" crc="133086487" seo="true" mt="1590920440977" redirect="true"/>
+  <file name="program.html" crc="4272716904" seo="true" mt="1591638721714" redirect="true"/>
 </manifest>
