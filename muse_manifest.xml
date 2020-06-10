@@ -1,26 +1,32 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="Tempest.ml" resolutions="1x" timestamp="1591806454288">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="Tempest.ml" resolutions="1x" timestamp="1591815995840">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="program.css" crc="451045025" ref="program"/>
-    <file name="about.css" crc="4001755563" ref="about"/>
-    <file name="index.css" crc="3903163600" ref="index"/>
+    <file name="index.css" crc="27867255" ref="index"/>
+    <file name="contact.css" crc="3876837212" ref="contact"/>
+    <file name="about.css" crc="4155127945" ref="about"/>
   </folder>
   <folder name="assets">
     <file name="ps5-hq.webm" crc="3813826525" seo="true" mt="1590843987000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:program"/>
-    <file name="museutils.js" crc="163421577" ref="index:about:program"/>
-    <file name="whatinput.js" crc="86476730" ref="index:about:program"/>
-    <file name="museconfig.js" crc="168988563" ref="index:about:program"/>
-    <file name="jquery.watch.js" crc="104486786" ref="index:about:program"/>
-    <file name="require.js" crc="244322403" ref="index:about:program"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:program:contact"/>
+    <file name="museutils.js" crc="163421577" ref="index:about:program:contact"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about:program:contact"/>
+    <file name="museconfig.js" crc="168988563" ref="index:about:program:contact"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index:about:program:contact"/>
+    <file name="require.js" crc="244322403" ref="index:about:program:contact"/>
   </folder>
   <folder name="images">
+    <file name="ps5-logo.png" crc="3979366618" seo="true" ref="index"/>
+    <file name="298-crop-u368.png" crc="402057031" ref="index"/>
+    <file name="7949cbef2067adf00ffaa3358200f76d.jpg" crc="3807741176" seo="true" ref="index"/>
     <file name="eaahlqbxqaenjjt-crop-u106.jpg" crc="158561728" ref="index"/>
-    <file name="298-crop-u368.png" crc="60348062" ref="index"/>
+    <file name="298-crop-u562.png" crc="3870844205" ref="about"/>
+    <file name="298-crop-u569.png" crc="3870844205" ref="about"/>
   </folder>
-  <file name="index.html" crc="79897294" seo="true" mt="1591806403907" redirect="true"/>
-  <file name="about.html" crc="133086487" seo="true" mt="1590920440977" redirect="true"/>
+  <file name="index.html" crc="4051215213" seo="true" mt="1591815986270" redirect="true"/>
+  <file name="about.html" crc="4157802879" seo="true" mt="1591815416796" redirect="true"/>
   <file name="program.html" crc="4272716904" seo="true" mt="1591638721714" redirect="true"/>
+  <file name="contact.html" crc="3984784452" seo="true" mt="1591815610114" redirect="true"/>
 </manifest>
