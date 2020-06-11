@@ -1,10 +1,10 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="Tempest.ml" resolutions="1x" timestamp="1591816145383">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="Tempest.ml" resolutions="1x" timestamp="1591857487743">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="program.css" crc="451045025" ref="program"/>
-    <file name="index.css" crc="4274558658" ref="index"/>
-    <file name="contact.css" crc="3876837212" ref="contact"/>
-    <file name="about.css" crc="4155127945" ref="about"/>
+    <file name="program.css" crc="4110436891" ref="program"/>
+    <file name="contact.css" crc="141781470" ref="contact"/>
+    <file name="about.css" crc="3948251188" ref="about"/>
+    <file name="index.css" crc="326021758" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="ps5-hq.webm" crc="3813826525" seo="true" mt="1590843987000"/>
@@ -19,14 +19,14 @@
   </folder>
   <folder name="images">
     <file name="ps5-logo.png" crc="3979366618" seo="true" ref="index"/>
-    <file name="298-crop-u368.png" crc="402057031" ref="index"/>
+    <file name="298-crop-u368.png" crc="60348062" ref="index"/>
     <file name="7949cbef2067adf00ffaa3358200f76d.jpg" crc="3807741176" seo="true" ref="index"/>
     <file name="eaahlqbxqaenjjt-crop-u106.jpg" crc="158561728" ref="index"/>
-    <file name="298-crop-u562.png" crc="3870844205" ref="about"/>
-    <file name="298-crop-u569.png" crc="3870844205" ref="about"/>
+    <file name="298-crop-u562.png" crc="4267095001" ref="about"/>
+    <file name="298-crop-u569.png" crc="4267095001" ref="about"/>
   </folder>
-  <file name="index.html" crc="90248103" seo="true" mt="1591816129136" redirect="true"/>
-  <file name="about.html" crc="4157802879" seo="true" mt="1591815416796" redirect="true"/>
-  <file name="program.html" crc="4272716904" seo="true" mt="1591638721714" redirect="true"/>
-  <file name="contact.html" crc="3984784452" seo="true" mt="1591815610114" redirect="true"/>
+  <file name="index.html" crc="97087702" seo="true" mt="1591857455057" redirect="true"/>
+  <file name="about.html" crc="435544460" seo="true" mt="1591815416796" redirect="true"/>
+  <file name="program.html" crc="246246180" seo="true" mt="1591638721714" redirect="true"/>
+  <file name="contact.html" crc="4256381361" seo="true" mt="1591815610114" redirect="true"/>
 </manifest>
